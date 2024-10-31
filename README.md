@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yasrig)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yasrig&theme=tokyonight-duo)](https://git.io/streak-stats)

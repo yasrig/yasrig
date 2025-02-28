@@ -11,8 +11,11 @@ I am a software engineer at Hamilton Robson and a Computer Science student at Ul
 <!-- BLOG-POST-LIST:START -->
 - [Big Data, Bigger Testing: BeaconIQ’s Approach to a Real-World QA](https://hamiltonrobson.com/blog-page/big-data-bigger-testing-beaconiqs-approach-to-a-real-world-qa/)
 - [wee:invent - AWS Community Day Belfast](https://medium.com/@yasrigby/team-day-out-at-wee-invent-aws-community-day-belfast-a5d60c7c41a9)
+- [DeckFest 2024](https://hamiltonrobson.com/blog-page/deckfest-2024-building-tech-presentation-skills-in-an-innovative-way/)
 - [Part 2: Diary of a Trainee Software Engineer](https://medium.com/@yasrigby/the-diary-of-a-trainee-software-engineer-part-2-6cf20cc42d10)
 - [Part 1: Diary of a Trainee Software Engineer](https://medium.com/@yasrigby/the-diary-of-a-trainee-software-engineer-part-1-9fcd5ef58b36)
+
+https://hamiltonrobson.com/blog-page/deckfest-2024-building-tech-presentation-skills-in-an-innovative-way/
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;

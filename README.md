@@ -9,6 +9,7 @@ I am a software engineer at Hamilton Robson and a Computer Science student at Ul
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2025 Git & GitHub Beginner Setup Guide for Mac](https://medium.com/@yasrigby/the-2025-git-github-beginner-setup-guide-for-mac-2ec046e5c1e6)
 - [Big Data, Bigger Testing: BeaconIQ’s Approach to a Real-World QA](https://hamiltonrobson.com/blog-page/big-data-bigger-testing-beaconiqs-approach-to-a-real-world-qa/)
 - [wee:invent - AWS Community Day Belfast](https://medium.com/@yasrigby/team-day-out-at-wee-invent-aws-community-day-belfast-a5d60c7c41a9)
 - [DeckFest 2024](https://hamiltonrobson.com/blog-page/deckfest-2024-building-tech-presentation-skills-in-an-innovative-way/)

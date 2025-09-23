@@ -2,7 +2,7 @@
 
 # 👋 &nbsp;Hey, hi, hello!
 
-I am a software engineer at Hamilton Robson and a Computer Science student at Ulster University. With over a year of experience working within a research and development team, I have gained skills in various areas such as full-stack engineering, cloud development, data engineering, and more, all while developing a strong passion for problem-solving. I actively contribute to my local tech community as an organiser, speaker, and attendee, including my role as an organiser at NIDC (technology conference in Belfast) and my former position as City Lead at Women Who Code Belfast.
+I am a software engineer and a Computer Science student at Ulster University. With over a year and a half of experience working within a research and development team, I have gained skills in various areas such as full-stack engineering, cloud development, data engineering, and more, all while developing a strong passion for problem-solving. I actively contribute to my local tech community as an organiser, speaker, and attendee, including my role as an organiser at NIDC (technology conference in Belfast) and my former position as City Lead at Women Who Code Belfast.
 
 &nbsp;
 
